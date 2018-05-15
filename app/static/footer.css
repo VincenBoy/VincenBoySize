@@ -1,0 +1,48 @@
+.footer {
+    color: #777;
+    padding: 10px 0;
+    /*border-top: 1px solid #e5e5e5;*/
+    margin-top: 20px;
+    display: block;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #777;
+}
+li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #777;
+}
+
+.row ul li a {
+    color: #777;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
